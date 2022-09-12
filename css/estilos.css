@@ -1,0 +1,23 @@
+*{
+    padding:0%;
+    margin:0%;
+    list-style-type: none;
+    text-decoration: none;
+    color: bisque;
+
+
+    }
+/*COMENTARIO */
+
+body{ 
+    background-color: gray;
+    background-image:url(../img/backgeound\ byw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} h1{font-family: 'Roboto', sans-serif;
+    color: bisque;
+    
+}
+section{font-family: 'Roboto', sans- ;
+    color: aquamarine;
+}
